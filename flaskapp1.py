@@ -88,6 +88,9 @@ def litformsumite():
   flash('اطلاعات و متن پیام شما ارصال گردید بسیار سپاسزگزاریم')
   return redirect("/home/%s/%s"%(category,method1))
   
+  
+  
+  
 
 
   
